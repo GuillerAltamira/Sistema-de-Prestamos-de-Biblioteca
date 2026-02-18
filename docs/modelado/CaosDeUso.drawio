@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.4.0">
+  <diagram name="Página-1" id="62dopwFNp0x0xNB9qay-">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y_Tj6TqdC1OAF3y2-Gt_-19" edge="1" parent="1" source="y_Tj6TqdC1OAF3y2-Gt_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="y_Tj6TqdC1OAF3y2-Gt_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y_Tj6TqdC1OAF3y2-Gt_-21" edge="1" parent="1" source="y_Tj6TqdC1OAF3y2-Gt_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="y_Tj6TqdC1OAF3y2-Gt_-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Actor" id="y_Tj6TqdC1OAF3y2-Gt_-1">
+          <mxCell parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;noLabel=0;" vertex="1">
+            <mxGeometry height="60" width="30" x="120" y="270" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="y_Tj6TqdC1OAF3y2-Gt_-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="620" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="y_Tj6TqdC1OAF3y2-Gt_-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Sistemas de Prestamos Bibliotecarios&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="y_Tj6TqdC1OAF3y2-Gt_-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Registrar Prestamo&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="310" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="y_Tj6TqdC1OAF3y2-Gt_-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Validar Multas&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="310" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="y_Tj6TqdC1OAF3y2-Gt_-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Validar Disponivilidad&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="310" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="y_Tj6TqdC1OAF3y2-Gt_-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Validar Limite de Prestamos&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="310" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="y_Tj6TqdC1OAF3y2-Gt_-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Renovar Prestamos&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="y_Tj6TqdC1OAF3y2-Gt_-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Registrar Devolucion&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="330" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="y_Tj6TqdC1OAF3y2-Gt_-20" edge="1" parent="1" source="y_Tj6TqdC1OAF3y2-Gt_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" target="y_Tj6TqdC1OAF3y2-Gt_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
