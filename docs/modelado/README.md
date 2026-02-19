@@ -5,7 +5,7 @@ Sistema para gestionar préstamos de libros en una biblioteca académica.
 
 ## Integrantes
 - Guillermo Altamirano
-- Nombre 2
+- Miguel Lopez 
 
 ## Diagramas incluidos
 - Casos de Uso
